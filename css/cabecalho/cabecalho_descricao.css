@@ -1,0 +1,22 @@
+.cabecalho__descricao {
+    background: #2c2c2c;
+    color: #fff;
+}
+
+.cabecalho__descricao--titulo {
+    font-size: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+.cabecalho__descricao--frase {
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+@media screen and (max-width: 480px){
+    .cabecalho__descricao--titulo {
+        font-size: 5rem;
+        padding: 2rem;
+    }
+}
