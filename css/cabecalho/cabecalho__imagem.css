@@ -12,3 +12,9 @@
 .cabecalho__imagem--legenda {
     padding-bottom: 1rem;
 }
+
+@media (max-width: 768px) {
+    .cabecalho__imagem--foto {
+        width: 100%;
+    }
+}

@@ -4,3 +4,10 @@
     text-align: center;
     width: auto;
 }
+
+@media (max-width:768px) {
+    .cabecalho {
+        height: 4rem;
+        width: 100%;
+    }
+}

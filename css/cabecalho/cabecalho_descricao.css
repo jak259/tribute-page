@@ -13,10 +13,3 @@
     font-size: 1.5rem;
     padding-bottom: 1rem;
 }
-
-@media screen and (max-width: 480px){
-    .cabecalho__descricao--titulo {
-        font-size: 5rem;
-        padding: 2rem;
-    }
-}
